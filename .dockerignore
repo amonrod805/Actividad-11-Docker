@@ -1,0 +1,14 @@
+.git
+.gitignore
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.env
+*.log
+.vscode/
+.idea/
+Dockerfile
+.dockerignore
+informe-trivy.txt
